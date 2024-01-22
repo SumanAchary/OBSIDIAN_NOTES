@@ -1,2 +1,0 @@
-
-~/.gravity/save/config.py
